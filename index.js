@@ -44,7 +44,7 @@ const {
 } = require('megajs')
 const path = require('path')
 const msgRetryCounterCache = new NodeCache()
-const ownerNumber = ['94725881990']
+const ownerNumber = ['94779510013']
 
 
 
@@ -196,7 +196,7 @@ q = args.join(' ')
             const senderNumber = sender.split('@')[0]
             const botNumber = conn.user.id.split(':')[0]
             const pushname = mek.pushName || 'Sin Nombre'
-            const developers = '94787869739'
+            const developers = '94779510013'
             const isbot = botNumber.includes(senderNumber)
             const isdev = developers.includes(senderNumber)
             const isMe = isbot ? isbot : isdev
@@ -259,7 +259,7 @@ externalAdReply: {
 title: '👨‍💻 ᴠᴀᴊɪʀᴀ ᴍᴅ ʙʏ ᴛᴄ ᴛᴇᴀᴍ 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
-sourceUrl: "https://wa.me/94711453361" ,
+sourceUrl: "https://wa.me/94779510013" ,
 thumbnailUrl: 'https://telegra.ph/file/b11123c61f6b970118a46.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
@@ -296,7 +296,7 @@ externalAdReply: {
 title: '👨‍💻 ᴠᴀᴊɪʀᴀ ᴍᴅ ʙʏ ᴛᴄ ᴛᴇᴀᴍ 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
-sourceUrl: "https://wa.me/94711453361" ,
+sourceUrl: "https://wa.me/94779510013" ,
 thumbnailUrl: 'https://telegra.ph/file/b11123c61f6b970118a46.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
@@ -319,7 +319,7 @@ externalAdReply: {
 title: '👨‍💻 ᴠᴀᴊɪʀᴀ ᴍᴅ ʙʏ ᴛᴄ ᴛᴇᴀᴍ 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
-sourceUrl: "https://wa.me/94711453361" ,
+sourceUrl: "https://wa.me/94779510013" ,
 thumbnailUrl: 'https://telegra.ph/file/b11123c61f6b970118a46.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
@@ -394,7 +394,7 @@ externalAdReply: {
 title: '👨‍💻 ᴠᴀᴊɪʀᴀ ᴍᴅ ʙʏ ᴛᴄ ᴛᴇᴀᴍ 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
-sourceUrl: "https://wa.me/94711453361" ,
+sourceUrl: "https://wa.me/94779510013" ,
 thumbnailUrl: 'https://telegra.ph/file/b11123c61f6b970118a46.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
@@ -416,7 +416,7 @@ externalAdReply: {
 title: '👨‍💻 ᴠᴀᴊɪʀᴀ ᴍᴅ ʙʏ ᴛᴄ ᴛᴇᴀᴍ 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
-sourceUrl: "https://wa.me/94711453361" ,
+sourceUrl: "https://wa.me/94779510013" ,
 thumbnailUrl: 'https://telegra.ph/file/b11123c61f6b970118a46.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
@@ -465,7 +465,7 @@ externalAdReply: {
 title: '👨‍💻 ᴠᴀᴊɪʀᴀ ᴍᴅ ʙʏ ᴛᴄ ᴛᴇᴀᴍ 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
-sourceUrl: "https://wa.me/94711453361" ,
+sourceUrl: "https://wa.me/94779510013" ,
 thumbnailUrl: 'https://telegra.ph/file/b11123c61f6b970118a46.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
@@ -512,7 +512,7 @@ externalAdReply: {
 title: '👨‍💻 ᴠᴀᴊɪʀᴀ ᴍᴅ ʙʏ ᴛᴄ ᴛᴇᴀᴍ 👨‍💻',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
-sourceUrl: "https://wa.me/94711453361" ,
+sourceUrl: "https://wa.me/94779510013" ,
 thumbnailUrl: 'https://telegra.ph/file/b11123c61f6b970118a46.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
